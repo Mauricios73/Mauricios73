@@ -1,5 +1,5 @@
 
-# 👋 Hi there 🇧🇷 🇺🇸
+# 👋 Hi there
 
 I'm Mauricio Portela, a passionate software developer and tech enthusiast.
 
