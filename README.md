@@ -29,5 +29,6 @@ I'm open to internship opportunities or collaborations on challenging projects, 
 
 ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=mauricios73&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
 ![snake gif](https://github.com/Mauricios73/Mauricios73/blob/output/github-contribution-grid-snake.svg)
 
