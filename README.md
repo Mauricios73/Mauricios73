@@ -18,6 +18,33 @@ Currently, I'm focusing on information security projects and web application dev
 I'm open to internship opportunities or collaborations on challenging projects, where I can apply my expertise in cybersecurity and web development to make a meaningful contribution.
 
 # 💻 Tech Stack
+
+Aqui está a tabela alinhada e os itens na tabela formatados:
+
+html
+Copy code
+<style>
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+
+  th {
+    background-color: #f2f2f2;
+    color: #333;
+    font-weight: bold;
+  }
+
+  img {
+    vertical-align: middle;
+  }
+</style>
 <table>
   <thead>
     <tr>
