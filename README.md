@@ -21,7 +21,7 @@ I'm open to internship opportunities or collaborations on challenging projects, 
 <table>
   <thead>
     <tr>
-      <th>Tecnologias/Linguagens</th>
+      <th>Tech/Language</th>
       <th>Versioning</th>
       <th>Databases</th>
       <th>Servers</th>
