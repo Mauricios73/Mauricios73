@@ -118,7 +118,7 @@ I'm open to internship opportunities or collaborations on challenging projects, 
 ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=mauricios73&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/monkamoon/monkamoon/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/monkamoon/monkamoon/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/monkamoon/monkamoon/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mauricios73/Mauricios73/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mauricios73/Mauricios73/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mauricios73/Mauricios73/output/github-contribution-grid-snake.svg">
 </picture>
