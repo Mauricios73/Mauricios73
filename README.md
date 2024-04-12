@@ -112,10 +112,11 @@ I'm open to internship opportunities or collaborations on challenging projects, 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mauricio-portela) [![me website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-psi-eight-31.vercel.app)
 
 # 📊 GitHub Stats:
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=mauricios73&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mauricios73&theme=neon&hide_border=false"  width="400px" />
+<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=mauricios73&theme=neon&hide_border=true&include_all_commits=true&count_private=true"  width="400px" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mauricios73&theme=neon&hide_border=true"  width="400px" /> 
 
 
-![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=mauricios73&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=mauricios73&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=compact )
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mauricios73/Mauricios73/output/github-contribution-grid-snake-dark.svg">
