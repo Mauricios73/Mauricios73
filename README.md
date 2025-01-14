@@ -1,111 +1,42 @@
-
 # 👋 Hi there
 
-I'm Mauricio Portela, an enthusiastic software developer.
+I’m Mauricio Portela. I’m currently studying cybersecurity and enjoy exploring how technology can be made more secure and reliable. I’m always looking to learn something new and apply it in meaningful ways.
 
 
 # 🚀 Expertise
 
 
-I'm a cybersecurity and software development student, with knowledge in PHP, Laravel, Python, Node.js, Git, React.js, SCSS, JavaScript, and TypeScript. I'm always looking to learn more and enhance my skills in these areas.
+I'm a cybersecurity and software development student, with knowledge in:
 
-🔐 Cybersecurity and Front-end Development
+Programming Languages: Python, JavaScript, PHP.
+Cybersecurity Tools: Wireshark, Metasploit, Nmap.
+Frameworks: Node.js, Express.js, React.js.
+Systems: Linux, Windows.
+Version Control: Git, GitHub.
+I'm always eager to learn more and enhance my skills in these areas.
 
-Currently, I'm focusing on information security projects and web application development, combining my technical knowledge with cybersecurity practices to create robust and secure solutions.
 
-💼 Opportunities
+🔐 Cybersecurity 
 
-I'm open to internship opportunities or collaborations on challenging projects, where I can apply my expertise in cybersecurity and web development to make a meaningful contribution.
+Currently, I'm focusing on:
 
-# 💻 Tech Stack
+Penetration Testing and Vulnerability Assessment
+Web Application Security
+Incident Response and Threat Analysis
+I combine technical knowledge with cybersecurity best practices to create robust and secure solutions.
 
-<table>
-  <thead>
-    <tr>
-      <th>Tech/Language</th>
-      <th>Versioning</th>
-      <th>Databases</th>
-      <th>Servers</th>
-      <th>Frameworks/CMS</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-</td>
-      <td>  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-</td>
-      <td><img align="center" alt="mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg">
-      </td>
-      <td>  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg">
-</td>
-      <td>  <img align="center" alt="laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
-</td>
-    </tr>
-    <tr>
-      <td>  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</td>
-      <td>  <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-</td>
-      <td>  <img align="center" alt="mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg">
-</td>
-      <td>  <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg">
-</td>
-      <td>  <img align="center" alt="express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-</td>
-    </tr>
-    <tr>
-      <td>  <img align="center" alt="SCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td> <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  </td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
 
-  </tbody>
-</table>
+# 💻 Cybersecurity Tech Stack  
 
+| **Category**                | **Tools/Technologies**                                                                                                                                          |  
+|------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|  
+| **Operating Systems**        | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) |  
+| **Networking Tools**         | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-00A3E0?style=flat-square&logo=nmap&logoColor=white) |  
+| **Pentesting Frameworks**    | ![Metasploit](https://img.shields.io/badge/Metasploit-1492C2?style=flat-square&logo=metasploit&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF7700?style=flat-square&logo=burpsuite&logoColor=white) |  
+| **Programming Languages**    | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) |  
+| **Web Application Security** | ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-003366?style=flat-square&logo=owasp&logoColor=white) ![SQLMap](https://img.shields.io/badge/SQLMap-FF4500?style=flat-square&logo=sql&logoColor=white) |  
+| **Cloud Security**           | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![CloudSim](https://img.shields.io/badge/CloudSim-228B22?style=flat-square&logo=cloud&logoColor=white) |  
+| **Cryptography**             | ![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=openssl&logoColor=white) ![Hashcat](https://img.shields.io/badge/Hashcat-FF4500?style=flat-square&logo=hashcat&logoColor=white) |  
 
 
 # 🌐 Socials:
