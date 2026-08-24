@@ -2,109 +2,85 @@
 
 ### Cybersecurity • Network Security • Wireless Security • Embedded Security
 
-I’m a cybersecurity-focused developer interested in understanding systems from the protocol level down to the hardware.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mauricio-portela)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-psi-eight-31.vercel.app/)
 
-My current direction is **Cybersecurity → Network Security → Wireless → Embedded Security**, with a strong focus on building practical tools and learning through real projects.
+Sou desenvolvedor com foco em **cibersegurança, segurança de redes,
+tecnologias wireless e sistemas embarcados**.
 
----
-
-## 🔐 Focus Areas
-
-- Network & Wireless Security
-- Wi-Fi protocol analysis
-- Embedded security and ESP32 development
-- Network reconnaissance and traffic analysis
-- Security tooling and automation
-- Secure software development
-- Linux and low-level experimentation
+Tenho interesse em compreender sistemas desde o nível dos protocolos
+até o hardware e gosto de transformar esse conhecimento em projetos
+práticos.
 
 ---
 
-## 🛠️ Technologies
+## 🔐 Áreas de atuação
 
-### Security & Networking
+**Cybersecurity**  
+Segurança de redes, pesquisa em segurança e análise de sistemas.
+
+**Wireless & Networking**  
+Wi-Fi, IEEE 802.11, análise de protocolos e tráfego de rede.
+
+**Embedded Systems**  
+ESP32, C/C++, FreeRTOS e integração entre hardware e software.
+
+---
+
+## 🛠️ Tecnologias
+
+### Segurança e Redes
 
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4EAA25?style=flat-square&logo=nmap&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
 
 ### Embedded & Wireless
 
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-### Development
+### Desenvolvimento
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## 🚧 Current Projects
+## 📡 WiFiCore / ESPGotchi
 
-### 📡 WiFiCore
+Projeto principal de desenvolvimento e pesquisa em **segurança wireless
+e sistemas embarcados**, baseado em ESP32.
 
-A modular ESP32-based wireless security and monitoring platform focused on Wi-Fi reconnaissance, 802.11 frame processing, device tracking, event-driven architecture, storage and embedded interfaces.
-
-**Architecture:**
-
-`Wi-Fi → Capture → Parser → APs/Clients → EventBus → Statistics → SD → TFT/Web`
-
-The project is being developed with a strong emphasis on modularity, reliability and separation between the wireless core and user interfaces.
+A arquitetura do projeto separa o núcleo de processamento das interfaces:
 
 
-### 🛡️ Security Experiments
+Wi-Fi
+  ↓
+Captura
+  ↓
+Parser
+  ↓
+APs / Clients
+  ↓
+EventBus
+  ↓
+Estatísticas / SD / TFT / Web
 
-I also maintain smaller projects involving cryptography, password security, network analysis, web applications and automation.
+O desenvolvimento é orientado por **modularidade, separação de responsabilidades, confiabilidade e uso eficiente dos recursos do hardware**.
 
----
-
-## 🧠 What I’m Learning
-
-I’m currently deepening my knowledge in:
-
-- 802.11 / Wi-Fi internals
-- Wireless frame parsing
-- Embedded networking
-- FreeRTOS and concurrent embedded systems
-- C/C++ for microcontrollers
-- Security monitoring and telemetry
-- Reinforcement learning concepts
-- Security architecture and threat analysis
+[Ver repositório →](https://github.com/Mauricios73/WiFiCore)
 
 ---
 
-## 📂 Selected Projects
+## 🥷 Projeto Shinobi
 
-| Project | Area |
-|---|---|
-| **WiFiCore** | ESP32 / Wireless Security / Embedded |
-| **ESPGotchi** | Wi-Fi / Embedded Security / AI experimentation |
-| **Criptografia-de-arquivos** | Cryptography |
-| **PasswordDumpChrome** | Security research / credential security |
-| **Projeto-Shinobi** | Software / Game development |
-| **portfolio** | Web development |
+Projeto autoral de desenvolvimento de software e experimentação com arquitetura, lógica e programação de jogos.
 
----
-
-## 🎯 Direction
-
-My goal is to build a solid practical foundation in cybersecurity by combining **software engineering, networking, wireless protocols and embedded systems**.
-
-Rather than only using security tools, I’m interested in understanding how they work and building my own implementations from the ground up.
-
----
-
-## 🌐 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mauricio-portela)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-psi-eight-31.vercel.app)
+[Ver repositório →](https://github.com/Mauricios73/Projeto-Shinobi)
 
 ---
 
@@ -115,7 +91,14 @@ Rather than only using security tools, I’m interested in understanding how the
 <img src="https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=mauricios73&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="390px" />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mauricios73/Mauricios73/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mauricios73/Mauricios73/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution graph" src="https://raw.githubusercontent.com/Mauricios73/Mauricios73/output/github-contribution-grid-snake.svg">
+  <source 
+  media="(prefers-color-scheme: dark)" 
+  srcset="https://raw.githubusercontent.com/Mauricios73/Mauricios73/output/github-contribution-grid-snake-dark.svg">
+  <source 
+  media="(prefers-color-scheme: light)" 
+  srcset="https://raw.githubusercontent.com/Mauricios73/Mauricios73/output/github-contribution-grid-snake.svg">
+  <img 
+  alt="GitHub contribution graph" 
+  src="https://raw.githubusercontent.com/Mauricios73/Mauricios73/output/github-contribution-grid-snake.svg">
 </picture>
+
