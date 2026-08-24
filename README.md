@@ -58,9 +58,6 @@ A modular ESP32-based wireless security and monitoring platform focused on Wi-Fi
 
 The project is being developed with a strong emphasis on modularity, reliability and separation between the wireless core and user interfaces.
 
-### 🤖 ESPGotchi
-
-An embedded Wi-Fi security experimentation platform inspired by the Pwnagotchi concept, exploring autonomous decision-making, wireless telemetry, a mascot interface and reinforcement-learning-based behavior on ESP32 hardware.
 
 ### 🛡️ Security Experiments
 
